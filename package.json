@@ -37,7 +37,7 @@
 		"deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
 		"dev": "next dev",
 		"lint": "next lint",
-		"upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload" 
+		"upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
 		"preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
 		"start": "next start"
 	}
